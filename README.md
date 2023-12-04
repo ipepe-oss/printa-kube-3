@@ -65,7 +65,7 @@ There are some decisions I needed to make really early in design process that I 
 ### Belt centering
 Centering the belt is common issue on 3D printers but also on many other belt driven machines. To mitigate this issue, there are 2 mitigations:
 1. Driven pulley has very flexible mounting to allow for alignment and tensioning. Tensioning is also done by springs and motors.
-2. Idler pulley has increasing diameter to allow for belt centering. I initially decided that outside diameter should be bigger then inside of belt. But this video suggests otherwise: <https://www.youtube.com/watch?v=-iJWfGVrU74>. I will need to revisit this decision.
+2. Idler pulley has increasing diameter to allow for belt centering. I initially decided that outside diameter should be bigger then inside of belt. But this video suggests otherwise: <https://www.youtube.com/watch?v=-iJWfGVrU74> or <https://www.youtube.com/watch?v=TNuzi-jMXoY>. I will need to revisit this decision.
 
 ## Handoff
 On beginning of December 2023 I decided to hand off the project to someone else. I will still be available for questions and I will still be consulting on the project but I will not be the main person working on it. - ipepe
