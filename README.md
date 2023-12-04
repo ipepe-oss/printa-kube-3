@@ -6,11 +6,14 @@ E3 based Cube (Kube) printer that fits into Swedish furniture manufacturer's she
 **Table of Contents**
 
 - [Inspiration](#inspiration)
+  - [Bonus inspiration](#bonus-inspiration) 
 - [Goals](#goals)
   - [Fit into IKEA Kallax shelving system](#fit-into-ikea-kallax-shelving-system)
   - [Use as many parts from Ender-3 as possible](#use-as-many-parts-from-ender-3-as-possible)
   - [Change Y axis - bed into endless belt](#change-y-axis---bed-into-endless-belt)
   - [Change X and Z axis into Core-XZ](#change-x-and-z-axis-into-core-xz)
+- [Design](design/)
+  - [Belt](design/belt.md) 
 - [Untested/Flawed decisions](#untestedflawed-decisions)
   - [Belt centering](#belt-centering)
 - [Handoff](#handoff)
