@@ -33,6 +33,9 @@ But this initially didn't spark the idea in me to base this on Ender-3. I was in
 
 With those 4 inspirations I finally knew what I wanted to build.
 
+### Bonus inspiration
+Because this project is so easy (*sarcasm) I was inspired by <https://www.youtube.com/watch?v=Cv5pEcBI5Hw> to make this printer portable. But that work should start after I have working printer.
+
 ## Goals
  * Fit into IKEA Kallax shelving system
  * Use as many parts from Ender-3 as possible
