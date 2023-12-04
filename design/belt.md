@@ -7,6 +7,6 @@ Additionally I bought `Promotion! 1x 250mm*33M*0.08mm Green PET Film Adhesive PC
 
 ## Belt sizing
 
-I messaged the seller of Green PVC belt with question about minimum diameter roller size. He responded that it should be 60mm. I quickly drafted printer frame with roller size 60mm and spacing between rollers 300mm. With the belt that is 2mm thick it resulted in 800mm. So perfectly for my use case.
+I messaged the seller of Green PVC belt with question about minimum diameter roller size. He responded that it should be 60mm. I quickly drafted printer frame with roller size 60mm and spacing between rollers 300mm. With the diameter of 32mm circumference is 200mm and we need 2x300mm to join rollers, so it perfectly fit for my use case.
 
 ![draft-frame](img/draft-frame.png)
