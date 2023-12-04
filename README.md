@@ -3,6 +3,18 @@ E3 based Cube (Kube) printer that fits into Swedish furniture manufacturer's she
 
 ![main.jpeg](main.jpeg)
 
+**Table of Contents**
+
+- [Inspiration](#inspiration)
+- [Goals](#goals)
+  - [Fit into IKEA Kallax shelving system](#fit-into-ikea-kallax-shelving-system)
+  - [Use as many parts from Ender-3 as possible](#use-as-many-parts-from-ender-3-as-possible)
+  - [Change Y axis - bed into endless belt](#change-y-axis---bed-into-endless-belt)
+  - [Change X and Z axis into Core-XZ](#change-x-and-z-axis-into-core-xz)
+- [Untested/Flawed decisions](#untestedflawed-decisions)
+  - [Belt centering](#belt-centering)
+- [Handoff](#handoff)
+
 ## Inspiration
 
 My first ever printer was Ender-3 but what often annoyed me was that it was constantly collecting dust and took a lot of space on my desk.  
