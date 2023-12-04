@@ -30,8 +30,9 @@ One day I noticed this project: <https://www.thingiverse.com/thing:4783875> and 
 But this initially didn't spark the idea in me to base this on Ender-3. I was initially put off because it required a lot of custom parts. And I wanted to reuse my already existing parts. Then I noticed this two projects:
  * <https://www.youtube.com/watch?v=qTVXgcrKZ4U>
     * <https://belt3dprinterkit.com/>
- * <https://www.youtube.com/watch?v=gruBm8ppwgY>
-   * <https://powerbelt3d.com/>
+ * <https://www.youtube.com/watch?v=ViQGZFbM22M>
+   * <https://www.youtube.com/watch?v=gruBm8ppwgY>
+     * <https://powerbelt3d.com/>
  * <https://www.youtube.com/watch?v=hgTfSCgL0L0>
 
 With those 4 inspirations I finally knew what I wanted to build.
